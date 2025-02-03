@@ -14,8 +14,8 @@
 
 //==[ 1. BASIC INFO ]==
 
-let blogName = "My Blog Name";
-let authorName = "My Name Here";
+let blogName = "Cat_dev_logs";
+let authorName = "Catzonic Aka Zonic";
 let authorLink = ""; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
 //-----------------------------
@@ -35,7 +35,7 @@ let postsArray = [
 //[ "posts/2020-11-10-My-Third-Post-Example.html" ],
 //[ "posts/2020-11-10-My-Second-Post-Example.html" ],
 [ "posts/2020-11-10-Post-Template.html" ],
-["post/2020-11-10-HTML-cheat-sheet.html"] ];
+["posts/2020-11-10-HTML-cheat-sheet.html"] ];
 
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
