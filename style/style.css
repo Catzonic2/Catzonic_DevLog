@@ -82,7 +82,7 @@ hr {
 /*HEADER STYLE*/
 #header {
   position: relative; /*doesn't change this element, but needed for the pink ring's positioning*/
-  background-color: #23a4f8;
+  background-color: #0270ff;
   padding: 0 5%;
   border-color: #ff75af;
   border-style: solid;
@@ -122,9 +122,9 @@ hr {
   text-decoration: none;
 }
 #header li a:active {
-  background-color: #ec4d90;
+  background-color: #7ff86f;
   text-decoration: none;
-  box-shadow: 0 -2px 12px 0 #fe83ff inset;
+  box-shadow: 0 -2px 12px 0 #8be9ec inset;
 }
 /*Floating ring*/
 #header:after {
