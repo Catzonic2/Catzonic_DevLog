@@ -4,9 +4,10 @@
 
 body {
   background-color: #dfe4ee;
-  background-image: url('../images/bg_y2k.png');
+  background-image: url('../images/background.png');
+  background-size:150%;
   background-repeat: no-repeat;
-	background-position: 50% -240px;
+ background-position: 50%;
 	background-attachment: fixed;
   font-size: 18px;
   font-family: Verdana, Geneva, sans-serif;
